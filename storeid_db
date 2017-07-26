@@ -1,0 +1,1 @@
+^https://quay-registry.s3.amazonaws.com/sha256/([a-z0-9/]+)	https://quay-registry.s3.amazonaws.com.squid.internal/sha256/$1
